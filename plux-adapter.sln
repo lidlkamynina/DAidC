@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAid", "DAid", "{10790567-7EAD-8EFB-633C-F7DE15DA88A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAid.Clients", "DAid\Clients\DAid.Clients.csproj", "{CFC53FAB-F002-FD71-7E5A-0AA44380CDAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAid.Servers", "DAid\Servers\DAid.Servers.csproj", "{06C9CB1E-08F1-0CD4-145A-3755BF6C2850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC53FAB-F002-FD71-7E5A-0AA44380CDAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC53FAB-F002-FD71-7E5A-0AA44380CDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC53FAB-F002-FD71-7E5A-0AA44380CDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC53FAB-F002-FD71-7E5A-0AA44380CDAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C9CB1E-08F1-0CD4-145A-3755BF6C2850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C9CB1E-08F1-0CD4-145A-3755BF6C2850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C9CB1E-08F1-0CD4-145A-3755BF6C2850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C9CB1E-08F1-0CD4-145A-3755BF6C2850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CFC53FAB-F002-FD71-7E5A-0AA44380CDAC} = {10790567-7EAD-8EFB-633C-F7DE15DA88A7}
+		{06C9CB1E-08F1-0CD4-145A-3755BF6C2850} = {10790567-7EAD-8EFB-633C-F7DE15DA88A7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61A8FDC3-D489-4E9B-8BEA-18F9351CE6FD}
+	EndGlobalSection
+EndGlobal

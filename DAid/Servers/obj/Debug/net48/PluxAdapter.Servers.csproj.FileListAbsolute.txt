@@ -1,0 +1,6 @@
+C:\Users\vrstudents\Documents\GitHub\plux-adapter\PluxAdapter\Servers\obj\Debug\net48\PluxAdapter.Servers.csproj.AssemblyReference.cache
+C:\Users\vrstudents\Documents\GitHub\plux-adapter\PluxAdapter\Servers\obj\Debug\net48\PluxAdapter.Servers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vrstudents\Documents\GitHub\plux-adapter\PluxAdapter\Servers\obj\Debug\net48\PluxAdapter.Servers.AssemblyInfoInputs.cache
+C:\Users\vrstudents\Documents\GitHub\plux-adapter\PluxAdapter\Servers\obj\Debug\net48\PluxAdapter.Servers.AssemblyInfo.cs
+C:\Users\vrstudents\Documents\GitHub\plux-adapter\PluxAdapter\Servers\obj\Debug\net48\PluxAdapter.Servers.csproj.CoreCompileInputs.cache
+C:\Users\vrstudents\Documents\GitHub\plux-adapter\PluxAdapter\Servers\obj\Debug\net48\PluxAdapter.Servers.sourcelink.json

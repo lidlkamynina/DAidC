@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QqESTRmYb2I=",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\DAidC\\DAid\\Servers\\DAid.Servers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vrstudents\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\vrstudents\\.nuget\\packages\\nlog\\5.0.0\\nlog.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
